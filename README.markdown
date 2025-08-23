@@ -20,7 +20,7 @@ This Streamlit application generates detailed notes and quizzes from uploaded PD
 1. Clone the repository:
    ```bash
    git clone https://github.com/NayyabMalik/PDF-Notes-and-Quiz-Generator
-   cd https://github.com/NayyabMalik/PDF-Notes-and-Quiz-Generator
+   cd  PDF-Notes-and-Quiz-Generator
    ```
 2. Install the required packages:
    ```bash
