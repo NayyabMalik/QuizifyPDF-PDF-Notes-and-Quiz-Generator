@@ -36,7 +36,7 @@ This Streamlit application generates detailed notes and quizzes from uploaded PD
 ## Usage
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run notes_and_quizes_generator.py
    ```
 2. Open the provided URL in your browser (typically `http://localhost:8501`).
 3. Upload a PDF file using the file uploader.
