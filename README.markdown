@@ -1,4 +1,4 @@
-# PDF Notes and Quiz Generator
+# QuizifyPDF – PDF Notes and Quiz Generator
 
 This Streamlit application generates detailed notes and quizzes from uploaded PDF files using language models from OpenRouter. It extracts text from PDFs, processes it to create notes and quizzes, and merges them into a single document.
 
